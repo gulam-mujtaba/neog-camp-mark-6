@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap");
+
+* {
+  font-family: "Klee One";
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --yellow: #f5e050;
+}
+.heading {
+  text-align: center;
+  padding: 2rem;
+  margin: 5px;
+  color: #b35f00;
+  font-weight: bold;
+  font-size: x-large;
+}
+.container {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+
+  width: 50%;
+  color: rgb(73, 73, 60);
+  text-align: center;
+  border-radius: 50px;
+}
+
+.about-sec {
+  text-align: center;
+  font-size: small;
+  margin: 20px;
+}
+body {
+  background-color: hsl(52, 100%, 71%);
+}
+button {
+  color: #fab700;
+  background-color: rgb(68, 54, 36);
+  border-radius: 10px;
+  margin: 5px;
+  font-weight: bolder;
+  font-size: 20px;
+  padding: 1px;
+  width: 80%;
+  align-self: center;
+}
+
+.placeholder {
+  color: beige;
+  border-radius: 15px;
+}
+
+#input-area {
+  text-shadow: rgb(253, 255, 121);
+  font-size: 20pt;
+  margin: 10px;
+  padding: auto;
+  border-radius: 10px;
+  color: rgb(139, 63, 0);
+  background-color: #fff3cb;
+  border-width: 4px;
+  border-color: darkorange;
+}
+
+#btn-con {
+  color: rgb(204, 140, 21);
+}
+
+.about {
+  color: rgb(173, 92, 0);
+  font-size: x-large;
+}
+.para {
+  font-size: large;
+  margin: 10px;
+}
+#output {
+  font-size: x-large;
+  color: #503b00;
+  background-color: rgb(255, 160, 36);
+  border-color: rgb(117, 71, 14);
+  border-radius: 10px;
+  padding: 10px;
+  margin-top: 15px;
+  align-self: center;
+  width: 50vw;
+  height: 15vh;
+  border-width: 40px;
+}
