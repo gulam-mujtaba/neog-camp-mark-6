@@ -1,4 +1,4 @@
-# neog-camp-mark-6 (Talking Bananas!)
+# Talking Bananas!
 Banana Language Translator App.
 
 Follow these steps to get your text translated to Banana Language.
